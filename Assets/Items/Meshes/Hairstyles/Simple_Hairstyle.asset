@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 085a28abb8b896847ab02b5821bd5318, type: 3}
+  m_Name: Simple_Hairstyle
+  m_EditorClassIdentifier: 
+  name: Simple
+  id: hairstyle_simple
+  mesh: {fileID: -6072251703635988805, guid: 7634d431d20e07943b7c491ffaef3d39, type: 3}
